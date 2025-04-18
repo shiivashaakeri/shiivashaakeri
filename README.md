@@ -18,7 +18,7 @@
 - ROS 2 / Gazebo for hardware‑in‑the‑loop tests
 
 ## Current Projects
-- Data‑driven **funnel MPC** for 6‑DOF rocket landing  
+- Data‑driven **funnel synthesis** for 6‑DOF rocket landing  
 - **Switching‑system control** with online identification  
 - **Game‑theoretic scheduling** in large satellite swarms
 
