@@ -1,16 +1,36 @@
-## Hi there 👋
+```bash
+# Hi, I'm Shiva Shakeri (@shiivashaakeri)
 
-<!--
-**shiivashaakeri/shiivashaakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  Ph.D. student, **Aeronautics & Astronautics, University of Washington**  
+🛰️  Researcher in **data‑driven & nonlinear control**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- **Model Predictive Control (MPC)** – explicit, tube‑based, & learning‑augmented
+- **Adaptive / Robust / Optimal Control** for uncertain, time‑varying systems  
+- **LQR, LQG, Kalman & Riccati‑based design** revisited through a data‑driven lens
+- **Nonlinear dynamics** in aerospace vehicles (re‑entry, rockets, satellite constellations)
+- **Funnel synthesis & safe learning** for real‑time guarantees
+
+## Toolchain
+- Python (NumPy, SciPy, CVXPY, do‑mpc, PyTorch for learning‑enhanced control)
+- MATLAB & Simulink for high‑fidelity prototyping  
+- ROS 2 / Gazebo for hardware‑in‑the‑loop tests
+
+## Current Projects
+- Data‑driven **funnel MPC** for 6‑DOF rocket landing  
+- **Switching‑system control** with online identification  
+- **Game‑theoretic scheduling** in large satellite swarms
+
+## Find Me
+- 🔗 GitHub   : [@shiivashaakeri](https://github.com/shiivashaakeri)  
+- 🌐 Website  : [shiva‑shakeri.github.io](https://shiva-shakeri.github.io)  
+- 💼 LinkedIn : [linkedin.com/in/shiva‑shakeri](https://www.linkedin.com/in/shiva-shakeri)
+
+## Fun Facts
+- 🎨  Oil‑painting enthusiast (vermilion & scarlet are my go‑tos)
+- 💬  Always happy to chat about control theory—technical *or* philosophical!
+
+** Reach out** for collaborations, code, or control coffee chats.
+```
