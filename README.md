@@ -31,6 +31,6 @@
 - 🎨  Oil‑painting enthusiast (vermilion & scarlet are my go‑tos)
 - 💬  Always happy to chat about control theory—technical *or* philosophical!
 
-**Reach out** for collaborations, code, or control coffee chats.
+**Reach out** for collaborations, code, or chats: [sshakeri@uw.edu](sshakeri@uw.edu)  
 
 
