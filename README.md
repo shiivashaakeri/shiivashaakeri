@@ -1,7 +1,6 @@
-```bash
 # Hi, I'm Shiva Shakeri (@shiivashaakeri)
 
-🎓  Ph.D. student, **Aeronautics & Astronautics, University of Washington**  
+🎓  Ph.D. student, **Aeronautics and Astronautics, University of Washington**
 🛰️  Researcher in **data‑driven & nonlinear control**
 
 ---
@@ -25,12 +24,11 @@
 
 ## Find Me
 - 🔗 GitHub   : [@shiivashaakeri](https://github.com/shiivashaakeri)  
-- 🌐 Website  : [shiva‑shakeri.github.io](https://shiva-shakeri.github.io)  
+- 🌐 Website  : [shiva‑shakeri.github.io](https://shivashakeri.com)  
 - 💼 LinkedIn : [linkedin.com/in/shiva‑shakeri](https://www.linkedin.com/in/shiva-shakeri)
 
 ## Fun Facts
 - 🎨  Oil‑painting enthusiast (vermilion & scarlet are my go‑tos)
 - 💬  Always happy to chat about control theory—technical *or* philosophical!
 
-** Reach out** for collaborations, code, or control coffee chats.
-```
+**Reach out** for collaborations, code, or control coffee chats.
