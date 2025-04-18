@@ -24,11 +24,13 @@
 
 ## Find Me
 - 🔗 GitHub   : [@shiivashaakeri](https://github.com/shiivashaakeri)  
-- 🌐 Website  : [shiva‑shakeri.github.io](https://shivashakeri.com)  
-- 💼 LinkedIn : [linkedin.com/in/shiva‑shakeri](https://www.linkedin.com/in/shiva-shakeri)
+- 🌐 Website  : [shivashakeri.com](https://shivashakeri.com)  
+- 💼 LinkedIn : [linkedin.com/in/shiiva‑shaakeri](https://www.linkedin.com/in/shiiva-shaakeri)
 
 ## Fun Facts
 - 🎨  Oil‑painting enthusiast (vermilion & scarlet are my go‑tos)
 - 💬  Always happy to chat about control theory—technical *or* philosophical!
 
 **Reach out** for collaborations, code, or control coffee chats.
+
+
